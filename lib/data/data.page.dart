@@ -1,0 +1,15 @@
+List zikirlar = [
+  'Subhanalloh',
+  'Alhamdulillah',
+  'Allohuakbar',
+  'La ilaha illallah Muhammadur rasuloh',
+  'Sollollohu alayhu va sallam',
+  "Allohumma solli a'la sayyidina Muhammad",
+  'Sallallahu alayhi vasallam',
+  'Subhanallohhil azeem',
+  'Astaghfirullah',
+  'Astaghfirullah va atubu ilaih',
+  'La havla vala quvvata illa billah',
+  "Inna lillahi va inna illayhi raji'un",
+  'Hasbunallahu ve nimel vekil',
+];
